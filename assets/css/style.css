@@ -1,0 +1,20 @@
+body {
+	background-image: url("wormz.png");
+}
+
+.container {
+	font-family: 'Berkshire Swash', cursive;
+}
+
+.jumbotron {
+	background-color: rgba(248,248,255,.4)
+}
+
+p, h1 {
+	color: #4B0082;
+	opacity: 1;
+}
+
+h1 {
+	text-align: center;
+}
